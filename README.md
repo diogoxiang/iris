@@ -12,14 +12,14 @@ Iris provides a beautifully expressive and easy to use foundation for your next 
 
 Learn what [others say about Iris](https://www.youtube.com/watch?v=jGx0LkuUs4A) and [star](https://github.com/kataras/iris/stargazers) this github repository to stay [up to date](https://facebook.com/iris.framework).
 
-[![Iris vs .NET Core(C#) vs Node.js (Express)](https://iris-go.com/images/benchmark-new-gray.png)](_benchmarks)
+[![Iris vs .NET Core(C#) vs Node.js (Express)](https://iris-go.com/images/benchmark-new.png)](_benchmarks/README_UNIX.md)
 
 <details>
 <summary>Benchmarks from third-party source over the rest web frameworks</summary>
 
 ![Comparison with other frameworks](https://raw.githubusercontent.com/smallnest/go-web-framework-benchmark/4db507a22c964c9bc9774c5b31afdc199a0fe8b7/benchmark.png)
 
-_Updated at: [Friday, 29 September 2017](_benchmarks)_
+_Updated at: [Tuesday, 21 November 2017](_benchmarks/README_UNIX.md)_
 </details>
 
 ## Built with ♥️
@@ -1008,6 +1008,7 @@ Congratulations, since you've made it so far, we've crafted just for you some ne
 
 > Don't forget to prepare yourself a cup of coffee, or tea, whatever enjoys you the most!
 
+* [Top 6 web frameworks for Go as of 2017](https://blog.usejournal.com/top-6-web-frameworks-for-go-as-of-2017-23270e059c4b)
 * [Iris Go Framework + MongoDB](https://medium.com/go-language/iris-go-framework-mongodb-552e349eab9c)
 * [How to build a file upload form using DropzoneJS and Go](https://hackernoon.com/how-to-build-a-file-upload-form-using-dropzonejs-and-go-8fb9f258a991)
 * [How to display existing files on server using DropzoneJS and Go](https://hackernoon.com/how-to-display-existing-files-on-server-using-dropzonejs-and-go-53e24b57ba19)
